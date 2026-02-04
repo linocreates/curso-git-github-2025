@@ -5,4 +5,6 @@ cat -> exibe o conteúdo do arquivo
 rm -> remove arquivo ou diretório
 rm -rf -> remove de formar recursiva e forçada todos diretórios
 
+nova linha
+
 
