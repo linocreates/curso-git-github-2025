@@ -4,3 +4,4 @@ git add nome_arquivo 	-> Adiciona arquivo para ser commitado
 git comitt -m "msg" 	-> Faz commit do que estava para ser commitado
 git log 		-> Mostra todo o histórico de commit
 
+mensagem estranha
